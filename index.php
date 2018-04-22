@@ -61,7 +61,7 @@
           <figure class="effect-sadie">
             <img src="pictures/1.jpg" alt="img01"/>
             <figcaption>
-              <h2>Ремонт <span>и техническое ослуживание</span></h2>
+              <h2>Ремонт <span>и техническое обслуживание</span></h2>
               <p>Подробное описание. <br>Которое придумаете самостоятельно.</p>
 
             </figcaption>
